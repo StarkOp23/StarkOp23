@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **React.JS , Node.js , Express.js ,Oracle Cloud , Oracle HCM , Oracle Digital Assiatant**
 
-- 👨‍💻 All of my projects are available at [profile-web-soumyadeep.netlify.app](profile-web-soumyadeep.netlify.app)
+- 👨‍💻 My portfolio [profile-web-soumyadeep.netlify.app](profile-web-soumyadeep.netlify.app)
 
 - 📫 How to reach me **info.soumya23@gmail.com**
 
