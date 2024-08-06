@@ -53,9 +53,9 @@
 </p>
 
 <h3 align="left">Cloud:</h3>
+
 <p align="center">
-  <img https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=black/>
-  
+  <img src= "https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=black"/>
 </p>
 
 
