@@ -60,5 +60,5 @@
 </p>
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=starkop23&theme=transparent&show_icons=true" />
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=starkop23&theme=transparent" alt="starkop23" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=starkop23&theme=transparent&show_icons=true" width = "400"/>
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=starkop23&theme=transparent" alt="starkop23" width="350" /></p>
