@@ -60,7 +60,7 @@
 </p>
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=starkop23&show_icons=true&locale=en&layout=compact" alt="starkop23" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=starkop23&theme=transparent&show_icons=true" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=starkop23&show_icons=true&locale=en" alt="starkop23" /></p>
 
