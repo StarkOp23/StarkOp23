@@ -61,7 +61,5 @@
 
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api?username=starkop23&theme=transparent&show_icons=true" /></p>
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=starkop23&show_icons=true&locale=en" alt="starkop23" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=starkop23&" alt="starkop23" /></p>
+<!-- <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=starkop23&show_icons=true&locale=en" alt="starkop23" /></p> -->
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=starkop23&theme=transparent" alt="starkop23" /></p>
