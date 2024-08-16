@@ -62,5 +62,5 @@
 <p>
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=starkop23&theme=transparent&show_icons=true" width = "400"/>
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=starkop23&theme=transparent" alt="starkop23" width="410" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=starkop23&layout=compact&theme=transparent width = "400""/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=starkop23&layout=compact&theme=transparent" width = "400"/>
 </p>
