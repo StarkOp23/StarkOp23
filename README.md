@@ -21,16 +21,28 @@
 ## 🚀 About Me
 
 <img align="right" alt="Coding" width="300" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
-🔭 Currently working on Oracle Digital Assistant - Building intelligent conversational AI
-🌱 Learning Advanced Cloud Architecture, AI/ML Integration & Enterprise Solutions
-💼 Passionate about Cloud Technologies, Artificial Intelligence & Scalable Systems
-🎯 Focus: Building AI-powered solutions with Cloud Technologies
-💪 Philosophy: "Continuous learning, continuous growing - Never stop until it's done!"
-📍 Based in India 🇮🇳
-📧 Reach me at info.soumya23@gmail.com
+
+🔭 Currently working on: Oracle Digital Assistant – Building enterprise-grade conversational AI
+
+🌱 Learning: Advanced Cloud Architecture, AI/ML Integration & Enterprise Solutions
+
+💼 Passionate about: Cloud Technologies, Artificial Intelligence & Scalable Systems
+
+🎯 Focus: AI-powered cloud-native systems
+
+💪 Philosophy: "Continuous learning, continuous growing – Never stop until it's done!"
+
+📍 Location: India 🇮🇳
+
+📧 Email: info.soumya23@gmail.com
+
 🌐 Portfolio: profile-web-soumyadeep.netlify.app
-⚡ Fun fact: I don't let anything go easily until I finish it! 🎯
-<br clear="both">
+
+⚡ Fun fact: I never leave anything until I master it! 🎯
+
+<br clear="both"/>
+
+<div align="center">
 
 ### 🎯 Current Mission
 **Mastering Cloud Technologies & AI** | Building Intelligent Enterprise Solutions
